@@ -15,11 +15,18 @@ def boucle_for():
     for j in range(10):
         print('{}^2 = {} '.format(j, j**2))
 
+def boucle_whiel():
+    i = 0
+    while i < 10:
+        print('{}^3 = {}'.format(i, i**3))
+        i += 1
+
 
 if __name__ == '__main__':
     #readfile()
     #writefile()
-    boucle_for()
+    #boucle_for()
+    boucle_whiel()
 
 
 
