@@ -11,9 +11,15 @@ def writefile():
         f.write(readfile())
 
 
+def boucle_for():
+    for i in range(10):
+        print('{}^2 = {} '.format(i, i**2))
+
+
 if __name__ == '__main__':
     #readfile()
-    writefile()
+    #writefile()
+    boucle_for()
 
 
 
