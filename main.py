@@ -12,8 +12,8 @@ def writefile():
 
 
 def boucle_for():
-    for i in range(10):
-        print('{}^2 = {} '.format(i, i**2))
+    for j in range(10):
+        print('{}^2 = {} '.format(j, j**2))
 
 
 if __name__ == '__main__':
