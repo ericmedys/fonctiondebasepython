@@ -22,11 +22,18 @@ def boucle_whiel():
         i += 1
 
 
+def message():
+    print("hello sabrina how are you")
+
+
 if __name__ == '__main__':
     #readfile()
     #writefile()
     #boucle_for()
-    boucle_whiel()
+    #boucle_while()
+    message()
+
+
 
 
 
