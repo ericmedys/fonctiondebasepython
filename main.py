@@ -18,7 +18,7 @@ def boucle_for():
 def boucle_whiel():
     i = 0
     while i < 10:
-        print('{}^3 = {}'.format(i, i**3))
+        print('{}^4 = {}'.format(i, i**4))
         i += 1
 
 
