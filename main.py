@@ -27,11 +27,11 @@ def message():
 
 
 if __name__ == '__main__':
-    #readfile()
-    #writefile()
+    readfile()
+    writefile()
     #boucle_for()
     #boucle_while()
-    message()
+   # message()
 
 
 
